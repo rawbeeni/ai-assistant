@@ -76,7 +76,7 @@ def get_gemini_response(question):
 
 st.set_page_config(page_title="AI drum assistant")
 
-st.header("<<assistant name>>: The drum assistant")
+st.header("Devina: The drum assistant")
 
 
 input=st.text_input("Input: ",key="input")
